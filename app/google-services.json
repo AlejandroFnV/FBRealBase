@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883799813606",
+    "firebase_url": "https://fbrealbase-4ad25.firebaseio.com",
+    "project_id": "fbrealbase-4ad25",
+    "storage_bucket": "fbrealbase-4ad25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883799813606:android:4262c5e4e3a5f6667b7a27",
+        "android_client_info": {
+          "package_name": "com.example.fbrealbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883799813606-6gm55k0mt58bahggbtlsscorrtkk47c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbrealbase",
+            "certificate_hash": "65bc966bed5ffa7ff432ebfe4e4a438e224c3c91"
+          }
+        },
+        {
+          "client_id": "883799813606-50rk3vds3p3pq858aqa9oa3a4j16bf1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNEaG6gOMMhXOZ5DmLiSLCWndpKQNxTP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883799813606-50rk3vds3p3pq858aqa9oa3a4j16bf1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
